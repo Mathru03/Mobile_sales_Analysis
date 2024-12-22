@@ -1,21 +1,21 @@
-Name : MATRUPRASAD SAMAL
-Company : CODTECH IT SOLUTIONS
-ID : CT08DS43
-Domain : DATA SCIENCTIST
-Duration : NOVEMBER 25th, 2024 to DECEMBER 25th, 2024.
-Mentor : Neela Santhosh Kumar
+# Name : MATRUPRASAD SAMAL
+# 3 Company : CODTECH IT SOLUTIONS
+# ID : CT08DS43
+# Domain : DATA SCIENCTIST
+# Duration : NOVEMBER 25th, 2024 to DECEMBER 25th, 2024.
+# Mentor : Neela Santhosh Kumar
 
-Overview of Flipkart Mobile Sales Analysis Project
+# Overview of Flipkart Mobile Sales Analysis Project
 The Flipkart Mobile Sales Analysis project aims to analyze the sales performance of mobile phones on Flipkart, identifying key trends, customer preferences, and factors influencing sales. This project leverages data analytics and visualization to derive insights that can enhance business strategies and product listings.
 
-Objective
+# Objective
 Main Goal: Analyze mobile sales data to identify patterns and trends.
 Secondary Goals:
 
-Identify top-selling brands and models.
+# Identify top-selling brands and models.
 Understand the influence of price, ratings, and specifications on sales.
 Provide actionable insights to optimize mobile listings and promotions.
-2. Dataset
+# 2. Dataset
 Typical Features
 Product_ID
 Brand
@@ -32,26 +32,26 @@ Processor
 Screen_Size
 Sale_Status
 
-Data Sources:
+# Data Sources:
 Flipkart web scraping.
 Open datasets available on Kaggle or other public repositories.
 
-Project Workflow
-3.1 Data Preprocessing
+# Project Workflow
+# 3.1 Data Preprocessing
 
 Handle Missing Values:
 Impute missing ratings, reviews, or specifications. Categorical Encoding:
 Convert categorical features (e.g., brand, RAM, storage) to numerical values using one-hot encoding or label encoding. Feature Scaling:
 Scale numerical features (e.g., price, ratings) for uniform analysis.
 
-3.2 Exploratory Data Analysis (EDA)
+# 3.2 Exploratory Data Analysis (EDA)
 
 Analyze distributions of key features such as price, ratings, and brand popularity.
 Identify top-performing brands and models.
 Analyze the relationship between specifications (e.g., RAM, battery) and sales performance.
 Detect trends in customer preferences over time.
 
-3.3 Visualization and Reporting
+# 3.3 Visualization and Reporting
 
 Develop visualizations to represent sales trends, customer preferences, and product performance using Power BI.
 Create interactive dashboards to track real-time sales data.
@@ -63,13 +63,13 @@ Python Libraries:
 pandas, numpy for data processing.
 matplotlib, seaborn for visualization.
 
-Other Tools:
+# Other Tools:
 
 Excel for data cleaning and basic analysis.
 Power BI for interactive dashboards.
 Jupyter Notebooks for exploratory data analysis.
 
-Challenges
+# Challenges
 
 Data Inconsistency: Missing or incorrect specifications.
 Dynamic Pricing: Frequent changes in mobile prices.
